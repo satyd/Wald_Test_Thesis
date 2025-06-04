@@ -1,0 +1,59 @@
+"D:\Python ALL\Kursovaya\venv\Scripts\python.exe" "D:/Python ALL/Kursovaya/main.py"
+Входные:
+H0 = 64
+H1 = 72
+a = 0.05
+b = 0.05
+шагов: 50
+
+************ПУНКТ 1************
+
+
+****Верна первая гипотеза****
+
+При teta = 64
+min obs = 6051.0	min wrong = 19.0
+max obs = 6712.0	max wrong = 41.0
+avg obs = 6411.98	avg wrong = 28.58
+При teta = 65
+min obs = 6380.0	min wrong = 24.0
+max obs = 8309.0	max wrong = 77.0
+avg obs = 7187.14	avg wrong = 45.7
+При teta = 66
+min obs = 6390.0	min wrong = 18.0
+max obs = 10255.0	max wrong = 156.0
+avg obs = 7983.2	avg wrong = 75.52
+При teta = 67
+min obs = 6225.0	min wrong = 25.0
+max obs = 11833.0	max wrong = 295.0
+avg obs = 8931.32	avg wrong = 125.8
+При teta = 68
+min obs = 6354.0	min wrong = 25.0
+max obs = 12555.0	max wrong = 500.0
+avg obs = 9510.9	avg wrong = 198.2
+При teta = 69
+min obs = 6371.0	min wrong = 23.0
+max obs = 12420.0	max wrong = 700.0
+avg obs = 9749.42	avg wrong = 283.82
+При teta = 70
+min obs = 6300.0	min wrong = 29.0
+max obs = 11538.0	max wrong = 847.0
+avg obs = 9593.16	avg wrong = 364.14
+При teta = 71
+min obs = 6337.0	min wrong = 26.0
+max obs = 11278.0	max wrong = 923.0
+avg obs = 9175.62	avg wrong = 435.98
+При teta = 72
+min obs = 6402.0	min wrong = 24.0
+max obs = 10634.0	max wrong = 958.0
+avg obs = 8634.92	avg wrong = 492.4
+D:/Python ALL/Kursovaya/main.py:49: MatplotlibDeprecationWarning: Axes3D(fig) adding itself to the figure is deprecated since 3.4. Pass the keyword argument auto_add_to_figure=False and use fig.add_axes(ax) to suppress this warning. The default value of auto_add_to_figure will change to False in mpl3.5 and True values will no longer work in 3.6.  This is consistent with other Axes classes.
+  axes = Axes3D(fig)
+C:\Program Files\JetBrains\PyCharm 2020.2.2\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:68: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  self.figure.tight_layout()
+
+************ПУНКТ 2************
+
+--- 50.405760765075684 seconds ---
+
+Process finished with exit code 0
